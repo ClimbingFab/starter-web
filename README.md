@@ -9,7 +9,8 @@ This is a simple web project for showing how to use Git and GitHub
 Sample website with plenty of files for demos
 
 ## How to contribute
-fqdsf
+
+Please fork this repository and then issue Pull Requests for review.
 
 ## Copyright
 2014 Git.Training
