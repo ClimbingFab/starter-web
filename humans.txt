@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Jason Taylor jason@git.com
+    Jason Taylor jason@git.com awesome
 
 # THANKS
 
